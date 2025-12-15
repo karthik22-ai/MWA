@@ -1,0 +1,7 @@
+{
+  "name": "SereneMind - AI Wellness Companion",
+  "description": "A holistic mental wellness application featuring AI-powered mood tracking, real-time voice therapy, guided meditations, and intelligent task management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
